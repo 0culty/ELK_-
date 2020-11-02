@@ -68,5 +68,6 @@ POST subway-logs-2019/_update_by_query?pipeline=hour_and_week&wait_for_completio
 ```
 
 
+## 결과 스크린샷
 <img width="1789" alt="스크린샷 2020-11-02 오후 5 47 37" src="https://user-images.githubusercontent.com/37995679/97847883-a1cc7200-1d33-11eb-8fdb-2f03ebd678f6.png">
 
