@@ -66,3 +66,7 @@ POST subway-logs-2019/_update_by_query?pipeline=hour_and_week&wait_for_completio
 # 그래서 해당 작업을 비동기로 실행시키는 옵션인 wait_for_completion=false를 함께 설정해주고 진행해야한다.
 # 출처: https://wedul.site/618
 ```
+
+
+<img width="1789" alt="스크린샷 2020-11-02 오후 5 47 37" src="https://user-images.githubusercontent.com/37995679/97847883-a1cc7200-1d33-11eb-8fdb-2f03ebd678f6.png">
+
